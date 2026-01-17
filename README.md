@@ -20,3 +20,4 @@ Tech Stack
 📁 File Format – .pbix for development and .png for dashboard previews.
 
 Screenshots
+https://github.com/Amoghsp/ELIZIUM-HOTEL-DASHBOARD/blob/main/ELIZIUM%20HOTEL%20DASHBOARD.png
